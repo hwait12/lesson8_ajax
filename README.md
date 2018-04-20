@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Hannah Wait
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I used TMDB's API, Ajax, and JSON to create a movie search applictaion of my own.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hwait12.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to register for an API.
+2. How to use Ajax and JSON to retreive data from a database.
+3. How to use ids to direct data gathered by Ajax and JSON to print on webpage.
